@@ -1,21 +1,11 @@
-# web-cli
+This is a web project for PC
 
-> vue-demo
+The technologies used include: Vue_2.5.2 and ElementUi_2.10.1
 
-## Build Setup
+Author: Kenn.Won
 
-``` bash
-# install dependencies
-npm install
+Email: 17621753488@163.com
 
-# serve with hot reload at localhost:8080
-npm run dev
+Date: 2019/07/04
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Position: Asia/BeiJing
